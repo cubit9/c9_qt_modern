@@ -10,3 +10,6 @@ dist/
 
 # os
 .DS_Store
+
+# pycharm
+.idea
