@@ -7,12 +7,11 @@ frameless window and a dark theme. The initial idea comes from this
 project `Qt Frameless Window
 DarkStyle <https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle>`__.
 
-.. figure:: examples/mainwindow.png
+.. figure:: https://github.com/cubit9/c9_qt_modern/blob/master/examples/mainwindow.png
    :alt: Example
    :align: center
    :width: 450px
 
-   Example
 
 Installation
 ------------
